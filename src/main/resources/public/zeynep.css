@@ -1,0 +1,14 @@
+button:hover,button:focus{
+    opacity: 0.2 ;
+}
+.zeynep-focus{
+    font-weight: bold;
+    opacity: 1;
+}
+.zeynep{
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 10px;
+    opacity: 0.7;
+    width: 80%;
+}
